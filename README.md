@@ -2,8 +2,7 @@
 
 Bioinformatics scientist and computational biologist with a PhD in Genetics. My research uses computational approaches to study genome organization, genomic variation, and chromosome biology across genomics and multi-omics research.
 
-Current research areas include chromosome-level genome assembly, B chromosome biology, long-read sequencing, structural variation, and 3D genome organization. Future interests include machine learning and AI for genomics, including sequence models such as AlphaGenome, Enformer, and Borzoi.
-
+Current research areas include chromosome-level genome assembly, B chromosome biology, long-read sequencing, structural variation, and 3D genome organization. Future interests include machine learning and AI for genomics.
 ## Selected publications
 
 - [Genome assembly of *Astatotilapia latifasciata* uncovers B chromosome-linked chromatin reorganization](https://doi.org/10.1038/s41437-026-00847-4) — *Heredity*, 2026
